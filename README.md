@@ -24,6 +24,7 @@ Please vote this bookmark if you use hacknews:
 
 * https://github.com/plataformatec/devise
 * https://github.com/ryanb/cancan Role Authorization
+* https://github.com/NoamB/sorcery Lightweight authentication
 
 **View**
 
